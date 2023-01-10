@@ -1416,7 +1416,7 @@
 	"block.create.turntable.tooltip": "ПОВОРОТНЫЙ СТОЛ",
 	"block.create.turntable.tooltip.summary": "Преобразует _силу_ _вращения_ прямиком в морскую болезнь.",
 	
-	"block.create.toolbox.tooltip": "TOOLBOX",
+	"block.create.toolbox.tooltip": "ЯЩИК С ИНСТРУМЕНТАМИ",
 	"block.create.toolbox.tooltip.summary": "Самый близкий компаньон каждого изобретателя. Удобно _вмещает_ большое количество _8 различных_ типов предметов.",
 	"block.create.toolbox.tooltip.condition1": "Когда экипирован",
 	"block.create.toolbox.tooltip.behaviour1": "_Сохраняет_ _содержимое_ инвентаря.",
