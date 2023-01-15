@@ -164,6 +164,16 @@
 	"item.mana-and-artifice.dowsing_rod.confusion": "Вы держите жезл в руке и клянетесь, что чувствуете поток энергии глубоко внутри него, но как бы Вы ни старались, Вы ничего не можете сделать. Вам нужно будет узнать больше, прежде чем Вы продолжите.",
 	"item.mana-and-artifice.dowsing_rod.no_wellsprings": "Источников не обнаружено. Узнайте больше!",
 
+	"item.mana-and-artifice.practitioners_pouch": "Ритуальный набор",
+	"item.mana-and-artifice.practitioners_pouch.stored": "Шаблон ритуала сохранён!",
+	"item.mana-and-artifice.practitioners_pouch.store_failed": "Ритуальный образец не может быть сохранен. Проверьте шаблон и реагенты, чтобы убедиться, что всё на своих местах.",
+	"item.mana-and-artifice.practitioners_pouch.not_kittable": "Этот ритуал нельзя хранить в ритуальном наборе.",
+	"item.mana-and-artifice.practitioners_pouch.not_found": "Не может соответствовать ритуалу.",
+	"item.mana-and-artifice.practitioners_pouch.not_enough_items": "В ритуальном наборе недостаточно предметов для проведения ритуала.",
+	"item.mana-and-artifice.practitioners_pouch.reagents": "Требуются реагенты:",
+	"item.mana-and-artifice.practitioners_pouch.no_ritual_stored": "Ритуал не сохранен.",
+	"item.mana-and-artifice.practitioners_pouch.ritual_title": "(%s, %d рун)",
+
 	"item.mana-and-artifice.improvised_manaweaver_wand": "Самодельный жезл манаплетения",
 	"item.mana-and-artifice.manaweave_bottle": "Узор маны в бутылке",
 	"item.mana-and-artifice.manaweave_bottle.suffix": ": %s",
