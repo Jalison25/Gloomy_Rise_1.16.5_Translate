@@ -1,7 +1,4 @@
 {
-	"_translators_comment": "Translated by Jalison25",
-
-
 	"itemGroup.mana-and-artifice.items": "Mana and Artifice",
 	"itemGroup.mana-and-artifice.constructs": "Mana and Artifice: Конструкции",
 	"itemGroup.mana-and-artifice.runes": "Mana and Artifice: Руны",
@@ -424,7 +421,7 @@
 
 	"block.mana-and-artifice.vinteum_ore": "Руда Винтиума",
 	"block.mana-and-artifice.vinteum_block": "Винтиумный блок",
-	"block.mana-and-artifice.vinteum_dust_block": "Винтиумный пыльный блок",
+	"block.mana-and-artifice.vinteum_dust_block": "Блок из винтиумной пыли",
 	"block.mana-and-artifice.chimerite_block": "Химеритовый блок",
 	"block.mana-and-artifice.aum": "Аум",
 	"block.mana-and-artifice.mana_crystal": "Кристалл маны",
@@ -744,7 +741,7 @@
 	"gui.mana-and-artifice.spell_reagents": "Требуются реагенты:",
 	"gui.mana-and-artifice.mana_cost": "Стоимость маны",
 	"gui.mana-and-artifice.shapeless": "Форма",
-	"gui.mana-and-artifice.your_tier": "Твой уровень: %d",
+	"gui.mana-and-artifice.your_tier": "Ваш уровень: %d",
 	"gui.mana-and-artifice.tier_progress": "Выполните %d из %d заданий для достижения следующего уровня:",
 	"gui.mana-and-artifice.your_tier_max": "У Вас максимальный уровень",
 	"gui.mana-and-artifice.your_faction": "Ваша фракция:",
