@@ -503,7 +503,7 @@
 	"book.resourcefulbees.getting_started.collecting_honeycombs": "Сбор пчелиных сот",
 	"book.resourcefulbees.getting_started.collecting_honeycombs.desc": "Ты берёшь расчёску и отправляешься на охоту.",
 	"book.resourcefulbees.getting_started.collecting_honeycombs.text.1": "Как только в Вашем улье будет 5й уровень мёда, Вы можете начать собирать соты, либо с помощью $(or)ножниц$(), либо с помощью $(or)$(l:beekeeping_tools/scraper)Скребка$()$(br2)$(#900)Не забудьте сначала выкурить улей!$()",
-	"book.resourcefulbees.getting_started.collecting_honeycombs.text.2": "Автоматизировать $(or)$(l:beekeeping_tools/beehives)Улей/$ можно легко с помощью $(or)воронки/$ или любого вида часов redstone вместе с $(or)Дозатором/$ с использованием $(or)$(l:beekeeping_tools/scraper)Скребка/$.$(p)Это позволит собрать все соты без необходимости выкуривать улей.",
+	"book.resourcefulbees.getting_started.collecting_honeycombs.text.2": "Автоматизировать $(or)$(l:beekeeping_tools/beehives)Улей/$ можно легко с помощью $(or)воронки/$ или любого вида часов redstone вместе с $(or)Раздатчиком/$ с использованием $(or)$(l:beekeeping_tools/scraper)Скребка/$.$(p)Это позволит собрать все соты без необходимости выкуривать улей.",
 
 	"book.resourcefulbees.getting_started.processing_combs": "Обработка пчелиных сот",
 	"book.resourcefulbees.getting_started.processing_combs.desc": "Все, что Вам нужно сделать, это взять кучку сот и добавить их в миксер.",
@@ -602,7 +602,7 @@
 	"book.resourcefulbees.beekeeping_tools.beehives.text.2": "Пчелиные гнёзда можно найти по всему миру, Вы можете забрать их без $(thing)Шёлкового касания$(), но если Вы используете его - Вы соберёте всех пчёл внутри.",
 
 	"book.resourcefulbees.beekeeping_tools.scraper": "Скребок",
-	"book.resourcefulbees.beekeeping_tools.scraper.text": "$(or)Скребок/$ - это небьющийся инструмент, который можно использовать для сбора сот с $(or)$(l:beekeeping_tools/beehives)Пчелиного улья$().$(br2)Скребок также можно использовать в $(or)Дозаторе$() таким же образом, как и $(or)Ножницы$().",
+	"book.resourcefulbees.beekeeping_tools.scraper.text": "$(or)Скребок/$ - это небьющийся инструмент, который можно использовать для сбора сот с $(or)$(l:beekeeping_tools/beehives)Пчелиного улья$().$(br2)Скребок также можно использовать в $(or)Раздатчике$() таким же образом, как и $(or)Ножницы$().",
 
 	"book.resourcefulbees.beekeeping_tools.smoker": "Задымитель",
 	"book.resourcefulbees.beekeeping_tools.smoker.text.1": "$(or)Задымитель/$ - это простой инструмент. Если Вы используете его на $(or)$(l:beekeeping_tools/beehives)Пчелином улье$() он будет задымлён, предотвращая гнев пчёл, если Вы будете собирать соты или пчёл с помощью $(or)$(l:beekeeping_tools:bee_box)Пчелиной коробки$().",
