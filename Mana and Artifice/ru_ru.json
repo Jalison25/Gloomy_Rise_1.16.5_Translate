@@ -1129,7 +1129,7 @@
 	"mana-and-artifice.commands.wellspring.failed": "Не удалось создать узел источника в этом расположении; попробуйте другой.",
 	"mana-and-artifice.commands.wellspringpower.success": "Установите %s's %s мощность источника на %d.",
 
-	"mana-and-artifice:progresscondition.ready": "Вы приобрели достаточно опыта, чтобы двигаться дельше! Чтобы продолжить, проверьте окулус.",
+	"mana-and-artifice:progresscondition.ready": "Вы приобрели достаточно опыта, чтобы двигаться дальше! Чтобы продолжить, проверьте окулус.",
 	"mana-and-artifice:progresscondition.advanced": "Вы продвинулись на уровень %d!",
 
 	"mana-and-artifice:progresscondition.t1_mlvl": "Достигни 15 уровня магии",
