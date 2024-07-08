@@ -414,11 +414,11 @@
 	"item.minecraft.tipped_arrow.effect.greater_mana_potion": "Стрела с большим зельем маны",
 	"item.minecraft.tipped_arrow.effect.superior_mana_potion": "Стрела с превосходным зельем маны",
 
-	"mana-and-artifice:mage_armor_set_bonus": "(3) Установить Бонус:\n +50 Максимальная мана\n +25% Восстановление маны",
-	"mana-and-artifice:bone_armor_set_bonus": "(4) Установить Бонус:\n Ограниченная форма тумана при смерти\n Приобретайте души, нанося урон",
-	"mana-and-artifice:demon_armor_set_bonus": "(4) Установить Бонус:\n Пылающая ярость\n Прыжок метеора\n Путь огня",
-	"mana-and-artifice:fey_armor_set_bonus": "(4) Установить Бонус:\n Расширенный полёт\n Левитация/Телепортация атакующего\n Шанс отразить снаряд\n Низкая регенерация HP",
-	"mana-and-artifice:council_armor_set_bonus": "(4) Установить Бонус:\n Магическое сопротивление\n +500 Максимальная мана\n 50% Восстановление маны\n Базовый полёт\n Отражение снаряда (3 заряда)",
+	"mana-and-artifice:mage_armor_set_bonus": "(3) Бонус сета:\n +50 Максимальная мана\n +25% Восстановление маны",
+	"mana-and-artifice:bone_armor_set_bonus": "(4) Бонус сета:\n Ограниченная форма тумана при смерти\n Приобретайте души, нанося урон",
+	"mana-and-artifice:demon_armor_set_bonus": "(4) Бонус сета:\n Пылающая ярость\n Прыжок метеора\n Путь огня",
+	"mana-and-artifice:fey_armor_set_bonus": "(4) Бонус сета:\n Расширенный полёт\n Левитация/Телепортация атакующего\n Шанс отразить снаряд\n Низкая регенерация HP",
+	"mana-and-artifice:council_armor_set_bonus": "(4) Бонус сета:\n Магическое сопротивление\n +500 Максимальная мана\n 50% Восстановление маны\n Базовый полёт\n Отражение снаряда (3 заряда)",
 
 	"block.mana-and-artifice.arcane_sentry": "Магический часовой",
 	"block.mana-and-artifice.brazier": "Жаровня",
